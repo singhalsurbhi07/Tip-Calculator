@@ -20,5 +20,5 @@ Tip Calculator app is used to calculate tip based on users input for amount and 
 
 9. (Optional) Improve the user interface and experience by using images and/or colors
 
-![App Gif](blob/master/output.gif)
+![App Gif](output.gif)
 
