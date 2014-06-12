@@ -11,3 +11,5 @@ Upon selecting tip amount, formatted tip value is displayed
 (Optional) User can select how many ways to split the tip
 (Optional) Experiment with trying input widgets to replace the buttons and/or textviews
 (Optional) Improve the user interface and experience by using images and/or colors
+
+https://github.com/singhalsurbhi07/Tip-Calculator/blob/master/output.gif
